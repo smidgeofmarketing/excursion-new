@@ -27,8 +27,9 @@ body {
 /*LINKS*/
 
 .link--cta {
-    color: aquamarine;
+    color: aquamarine !Important;
     font-size: 16px;
+    font-weight: bold;
 }
 
 /*FOOTER*/
